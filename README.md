@@ -1,10 +1,11 @@
 # Revisoes_conteudo
 Publicação de Aplicações Web
- Aluno
-Davi Santana
-
+ Aluno: Davi Santana
+ 
+###
 Descrição do Projeto
 Este projeto apresenta uma página web educativa desenvolvida como parte da Unidade Curricular "Publicar Aplicações Web". O site oferece um guia completo e interativo sobre os conceitos fundamentais para publicação de aplicações na web, abordando desde controle de versão até protocolos de comunicação.
+###
 
  Principais Pontos Revisados
 Controle de Versão (Git)
@@ -66,5 +67,5 @@ Layout responsivo para mobile e desktop
 Códigos exemplos com syntax highlighting
 
 Cards interativos com hover effects
-
+###
 Este projeto demonstra na prática os conceitos aprendidos sobre publicação web, servindo tanto como material de estudo quanto como exemplo de aplicação dos conhecimentos adquiridos.
